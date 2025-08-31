@@ -46,7 +46,7 @@ const BeneficiosPage: React.FC = () => {
           <img 
             src="https://i.postimg.cc/wTkwLNZW/cavaco-de-madeira-para-que-serve.jpg"
             alt="Beneficios da Biomas"
-            className="w-full h-full object-cover"
+            className="w-full h-full object-cover object-center"
           />
           <div className="absolute inset-0 bg-black/70"></div>
         </div>
