@@ -54,7 +54,7 @@ const ServicosPage: React.FC = () => {
           <img 
             src="https://i.postimg.cc/gk6Nt5xT/federico-respini-s-Yffw0-LNr7s-unsplash.jpg"
             alt="Serviços Florestais"
-            className="w-full h-full object-cover"
+            className="w-full h-full object-cover object-center"
           />
           <div className="absolute inset-0 bg-black/70"></div>
         </div>
@@ -139,7 +139,7 @@ const ServicosPage: React.FC = () => {
                   <img 
                     src={servico.imagem}
                     alt={servico.titulo}
-                    className="w-full h-96 object-cover rounded-lg shadow-2xl"
+                    className="w-full h-64 md:h-96 object-cover object-center rounded-lg shadow-2xl"
                   />
                 </motion.div>
               </div>
