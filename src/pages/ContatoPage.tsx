@@ -223,8 +223,8 @@ const ContatoPage: React.FC = () => {
                       Endereço
                     </h3>
                     <p className="text-gray-300" style={{ fontFamily: 'Poppins, sans-serif' }}>
-                      11°32'01.5"S 54°21'55.9"W<br />
-                      Mato Grosso, Brasil
+                      Rodovia MT 423<br />
+                      União do Sul 78543000
                     </p>
                   </div>
                 </div>
