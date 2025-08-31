@@ -10,7 +10,7 @@ const Hero: React.FC = () => {
         <img 
           src="https://i.postimg.cc/N088vvtd/ricardo-gomez-angel-x9u-Ce-BNO-Ag-unsplash.jpg"
           alt="Floresta"
-          className="w-full h-full object-cover"
+          className="w-full h-full object-cover object-center"
         />
         <div className="absolute inset-0 bg-black/50"></div>
       </div>
