@@ -62,7 +62,7 @@ const timelineItems = [
           <img 
             src="https://i.postimg.cc/SN8ffM50/dodi-achmad-3-VTDgd-JE6a-U-unsplash.jpg"
             alt="Floresta"
-            className="w-full h-full object-cover"
+            className="w-full h-full object-cover object-center"
           />
           <div className="absolute inset-0 bg-black/70"></div>
         </div>
@@ -205,22 +205,22 @@ const timelineItems = [
               <img 
                 src="https://i.postimg.cc/PJYFBF6h/aaaaaaaaaaaaaaaaa1.jpg"
                 alt="Grupo Medeiros 1"
-                className="w-full h-48 object-cover rounded-lg"
+                className="w-full h-32 md:h-48 object-cover object-center rounded-lg"
               />
               <img 
                 src="https://i.postimg.cc/JhF6tWvM/ccccccccc.jpg"
                 alt="Grupo Medeiros 2"
-                className="w-full h-48 object-cover rounded-lg"
+                className="w-full h-32 md:h-48 object-cover object-center rounded-lg"
               />
               <img 
                 src="https://i.postimg.cc/MHvFdpBc/6347bf96-2e60-42d1-bffc-1c3770e03e84.jpg"
                 alt="Grupo Medeiros 3"
-                className="w-full h-48 object-cover rounded-lg"
+                className="w-full h-32 md:h-48 object-cover object-center rounded-lg"
               />
               <img 
                 src="https://i.postimg.cc/TwZ4NXJC/bbbbbbbb.jpg"
                 alt="GRupo Medeiros 4"
-                className="w-full h-48 object-cover rounded-lg"
+                className="w-full h-32 md:h-48 object-cover object-center rounded-lg"
               />
             </motion.div>
           </div>
