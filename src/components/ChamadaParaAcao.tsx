@@ -9,7 +9,7 @@ const ChamadaParaAcao: React.FC = () => {
         <img 
           src="https://i.postimg.cc/htNgWNsQ/mars-plex-ryrx-BUeja-Lo-unsplash.jpg"
           alt="Biomassa"
-          className="w-full h-full object-cover"
+          className="w-full h-full object-cover object-center"
         />
         <div className="absolute inset-0 bg-black/70"></div>
       </div>
