@@ -42,7 +42,7 @@ const QuemSomos: React.FC = () => {
             <img 
               src="https://i.postimg.cc/SKVhXHds/IMAGEM-DE-PICADOR-OU-DE-SUA-PREFERENCIA-ILDAO-DO-CAPUCCHINO-5.png"
               alt="Ildao"
-              className="w-full h-96 object-cover rounded-lg shadow-2xl"
+              className="w-full h-64 md:h-96 object-cover object-center rounded-lg shadow-2xl"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-black/30 to-transparent rounded-lg"></div>
           </motion.div>
